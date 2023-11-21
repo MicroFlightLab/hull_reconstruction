@@ -2,7 +2,7 @@
 [Article](https://journals.biologists.com/jeb/article/226/21/jeb245853/334548/A-hull-reconstruction-reprojection-method-for-pose)
 
 
-run the code using main.m
+Run the code using main.m
 
 an example files are available in the following link:
 [Example data](https://drive.google.com/drive/folders/1eUq0hUsx6YyGvLWRtjxnj3-qm2BsSlU1?usp=sharing)
