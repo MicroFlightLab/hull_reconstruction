@@ -16,4 +16,4 @@ parts of the code need Matlab tool boxes
 * DSP System tobo
 * Parallel Computing Toolbox
 
-- the folder CineToSparseFormat contains the file Cine2Sparse.m which coverts cine files to sparse files by identifing the background (FindCineBG) and subtracting  them from the images.
+the folder CineToSparseFormat contains the file Cine2Sparse.m which coverts cine files to sparse files by identifing the background (FindCineBG) and subtracting  them from the images.
